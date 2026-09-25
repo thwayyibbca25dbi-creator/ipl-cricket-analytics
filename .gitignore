@@ -1,3 +1,5 @@
+# Source table data
+tables/*.csv
 # Python virtual environment
 .venv/
 
